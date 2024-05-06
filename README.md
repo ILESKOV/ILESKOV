@@ -11,5 +11,3 @@ Hello, I'm Ivan Leskov. Thank you for visiting my profile.
 - 💬 If you have any questions or feedback, please feel free to [contact me on LinkedIn](https://www.linkedin.com/in/ivan-leskov-4b5664189/).
 
 ---
-
-This `README.md` is part of a special repository designed to highlight my GitHub profile. You can click on the Preview link to see your changes in action.
