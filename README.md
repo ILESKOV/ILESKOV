@@ -8,5 +8,5 @@ Hello, I'm Ivan Leskov. Thank you for visiting my profile.
 - ✍️ I contribute insights on development best practices in Solidity through articles on [Medium](https://medium.com/@ivanlieskov/).
 
 ## Contact Me
-- 💬 If you have any questions or feedback, please feel free to [contact me on LinkedIn](https://www.linkedin.com/in/ivan-leskov-4b5664189/).
+- 💬 If you have any questions or feedback, please feel free to [contact me on LinkedIn](https://www.linkedin.com/in/ivan-leskov/).
 
