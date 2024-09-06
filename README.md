@@ -10,3 +10,20 @@ Hello, I'm Ivan Leskov. Thank you for visiting my profile.
 ## Contact Me
 - 💬 If you have any questions or feedback, please feel free to [contact me on LinkedIn](https://www.linkedin.com/in/ivan-leskov/).
 
+# Welcome to Ivan Leskov's GitHub 👋
+
+🛠️ Building tomorrow’s decentralized apps, today.  
+👨‍💻 Blockchain Engineer | DeFi Innovator | NFT Visionary  
+
+🚀 [Discover My Latest Project](#)  
+
+## 📊 GitHub Stats
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-leskov&show_icons=true&theme=radical)
+
+## ✨ Featured Projects
+- [AETLAS Core Protocol](#)
+- [L2 Stacks Campaign](#)
+- [NFT Auction Mechanism](#)
+
+## Let's Collaborate
+💬 [Connect with me on LinkedIn](https://www.linkedin.com/in/ivan-leskov/) | [Twitter](https://twitter.com/yourprofile)  
